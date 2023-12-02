@@ -1,7 +1,7 @@
 # rocketseat-ignite-node-project-01
   
   ![image](https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fignite.svg&w=256&q=75)  
-  ![image]([https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fignite.svg&w=256&q=75](https://seeklogo.com/images/R/rocketseat-logo-666CE4B396-seeklogo.com.png))  
+  ![image](https://seeklogo.com/images/R/rocketseat-logo-666CE4B396-seeklogo.com.png)  
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
