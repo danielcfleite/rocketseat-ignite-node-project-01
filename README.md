@@ -5,7 +5,7 @@
 
 
 
-<h1> Tasks | Backend com NodeJS  </h1>
+<h1 align=center> Tasks | Backend com NodeJS  </h1>
 
 <p align="center">
 This is the first project in RocketSeat's NodeJS course. It was made using vanilla NodeJS and the [csv-parse library](https://csv.js.org/parse/) 
