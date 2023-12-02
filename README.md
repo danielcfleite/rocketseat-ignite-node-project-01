@@ -10,7 +10,7 @@ This is the first project in RocketSeat's NodeJS course. It was made using vanil
 
 
 <p align="center">
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![image](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </p>
 
 <br>
