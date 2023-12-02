@@ -1,6 +1,7 @@
 # rocketseat-ignite-node-project-01
-
+<p align=center>
 ![image](https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fignite.svg&w=256&q=75)
+</p>
 
 <h1 align="center"> Tasks | Backend com NodeJS  </h1>
 
@@ -10,7 +11,7 @@ This is the first project in RocketSeat's NodeJS course. It was made using vanil
 
 
 <p align="center">
-  ![image](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </p>
 
 <br>
