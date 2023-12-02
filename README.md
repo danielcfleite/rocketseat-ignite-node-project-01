@@ -9,6 +9,8 @@
 
 <p align="center">
 This is the first project in RocketSeat's NodeJS course. It was made using vanilla NodeJS and the [csv-parse library](https://csv.js.org/parse/) 
+</p>
+
 ![image](https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fignite.svg&w=256&q=75)  
 
 <br>
