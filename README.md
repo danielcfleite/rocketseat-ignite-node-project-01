@@ -8,7 +8,7 @@
 <h1 align=center> Tasks | Backend com NodeJS  </h1>
 
 <p align="center">
-This is the first project in RocketSeat's NodeJS course. It was made using vanilla NodeJS and the [csv parse library!](https://lofi-todo-ignite.vercel.app/)
+This is the first project in RocketSeat's NodeJS course. It was made using vanilla NodeJS and the [CSV parse library](https://www.google.com)
 </p>
 
 ![image](https://app.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fignite.svg&w=256&q=75)  
